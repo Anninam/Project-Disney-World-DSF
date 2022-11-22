@@ -27,6 +27,7 @@ print(metadata)
 #X = metadata.dropna(subset =["HOLIDAYN"])
 #print(X[["HOLIDAYN"]])
 
+#print("Hello World")
 
 ### Looking at data only for 2021
 #metadata_21 = metadata.loc[(metadata["YEAR"] == 2021)]
